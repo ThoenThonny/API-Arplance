@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/023/570/267/small_2x/airplane-in-sky-background-illustration-ai-generative-free-photo.jpg",
+        "name": "Boeing 747",
+        "price": "$250,000,000",
+        "description": "A large, long–range wide-body airliner known for its distinctive hump and high passenger capacity."
+    },
+    {
+        "id": 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGEDXxUT9iNkhByDEjtuGCnQRoZ0Q6r5zbPu8M4ePziDH1Ta_AGEbK29XeJh6hQGiA5o&usqp=CAU",
+        "name": "Airbus A320",
+        "price": "$110,000,000",
+        "description": "A popular short to medium-range passenger aircraft used by airlines worldwide."
+    },
+    {
+        "id": 3,
+        "image": "https://content.presspage.com/uploads/2431/98b6da4f-f7a4-4f2c-a286-806eecb401ee/1920_20240223ea777insky43.jpg?10000",
+        "name": "Boeing 777",
+        "price": "$320,000,000",
+        "description": "A long-range, wide-body twin-engine jet airliner known for its efficiency and comfort."
+    },
+    {
+        "id": 4,
+        "image": "https://i0.wp.com/londonairtravel.com/wp-content/uploads/2024/03/British-Airways-Airbus-A380-G-XLEL-Aircraft-Inflight-02.jpg?ssl=1",
+        "name": "Airbus A380",
+        "price": "$445,000,000",
+        "description": "The world's largest passenger airliner featuring two full decks and exceptional range."
+    },
+    {
+        "id": 5,
+        "image": "https://images.aircharterservice.com/global/aircraft-guide/group-charter/boeing-b737-400-800-900-1.jpg",
+        "name": "Boeing 737",
+        "price": "$100,000,000",
+        "description": "A narrow-body jet commonly used for domestic and short international flights."
+    },
+    {
+        "id": 6,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBa9Y6aneCJBsURT-gyerXec8lwz5Z0rYjEA&s",
+        "name": "F-16 Fighter Jet",
+        "price": "$30,000,000",
+        "description": "A single-engine supersonic multirole fighter aircraft used by air forces worldwide."
+    },
+    {
+        "id": 7,
+        "image": "https://essexaviation.com/wp-content/uploads/2020/01/Essex-Aviation-International-Private-Jet-Gulfstream-G280-1024x633.jpg",
+        "name": "Private Jet",
+        "price": "$45,000,000",
+        "description": "A luxurious small aircraft designed for personal or business travel with comfort and speed."
+    },
+    {
+        "id": 8,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/C-17_test_sortie.jpg/1200px-C-17_test_sortie.jpg",
+        "name": "Cargo Plane",
+        "price": "$150,000,000",
+        "description": "A heavy-duty aircraft built to transport goods and large freight over long distances."
+    }
+]
