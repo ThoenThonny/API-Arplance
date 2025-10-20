@@ -51,8 +51,8 @@
     {
         "id": 8,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/C-17_test_sortie.jpg/1200px-C-17_test_sortie.jpg",
-        "name": "Cargo Plane",
-        "price": "$150,000,000",
+        "name": "Cargo ",
+        "price": "$150",
         "description": "A heavy-duty aircraft built to transport goods and large freight over long distances."
     }
 ]
